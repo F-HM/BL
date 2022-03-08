@@ -1,1 +1,2 @@
 am.i.mullvad.net
+am.i.mullvad.net.lan
